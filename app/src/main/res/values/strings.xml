@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application Pertemuan 4</string>
+    <string name="ulangi">Ulangi</string>
+    <string name="keluar">Keluar</string>
+    <string name="tv_judul">Puzzle Angka</string>
+    <string name="main">Main</string>
+    <string name="b_a">A</string>
+    <string name="b_b">B</string>
+    <string name="b_c">C</string>
+    <string name="b_d">D</string>
+    <string name="b_e">E</string>
+    <string name="b_f">F</string>
+    <string name="b_g">G</string>
+    <string name="b_h">H</string>
+    <string name="b_i">I</string>
+    <string name="b_j">J</string>
+    <string name="b_k">K</string>
+    <string name="b_l">L</string>
+    <string name="b_m">M</string>
+    <string name="b_n">N</string>
+    <string name="b_o">O</string>
+</resources>
